@@ -264,6 +264,7 @@ Exemplo de resposta:
   "amount": 30.0,
   "date": "2023-05-11"
 }
+```
 
 
 ### 5. Excluir uma Despesa
