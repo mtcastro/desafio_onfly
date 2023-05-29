@@ -1,0 +1,47 @@
+/app-client/.DS_Store
+/app-client/.thumbs.db
+/app-client/node_modules
+
+# Quasar core related directories
+/app-client/.quasar
+/app-client/dist
+
+# Cordova related directories and files
+/app-client/src-cordova/node_modules
+/app-client/src-cordova/platforms
+/app-client/src-cordova/plugins
+/app-client/src-cordova/www
+
+# Capacitor related directories and files
+/app-client/src-capacitor/www
+/app-client/src-capacitor/node_modules
+
+# Log files
+/app-client/npm-debug.log*
+/app-client/yarn-debug.log*
+/app-client/yarn-error.log*
+
+# Editor directories and files
+/app-client/.idea
+/app-client/*.suo
+/app-client/*.ntvs*
+/app-client/*.njsproj
+/app-client/*.sln
+
+
+#laravel app
+/desafio-app/node_modules
+/desafio-app/public/hot
+/desafio-app/public/storage
+/desafio-app/storage/*.key
+/desafio-app/vendor
+/desafio-app/.env
+/desafio-app/.env.backup
+/desafio-app/.phpunit.result.cache
+/desafio-app/docker-compose.override.yml
+/desafio-app/Homestead.json
+/desafio-app/Homestead.yaml
+/desafio-app/npm-debug.log
+/desafio-app/yarn-error.log
+/desafio-app/.idea
+/desafio-app/.vscode
